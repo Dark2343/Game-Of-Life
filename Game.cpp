@@ -6,7 +6,6 @@ int main(){
 
     while (true)
     {
-
         cout << "Do you want to\n1- Run the game\n2- Assign new cells\n3- Delete existing cells\n";
         char choice;
         cin >> choice;
