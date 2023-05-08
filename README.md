@@ -1,5 +1,5 @@
 # Game-Of-Life 
-<h3>The Game's rules are as follows:</h3>
+<h3>The game's rules are as follows:</h3>
 1- Any live cell with fewer than two live neighbors dies, as if by underpopulation.<br>
 2- Any live cell with two or three live neighbors lives on to the next generation.<br>
 3- Any live cell with more than three live neighbors dies, as if by overpopulation.<br>
